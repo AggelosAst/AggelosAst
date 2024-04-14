@@ -35,7 +35,7 @@
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=white&color=black)
 ![Rider](https://img.shields.io/badge/rider-143?style=for-the-badge&logo=rider&logoColor=white&color=black)
 ![DataGrip](https://img.shields.io/badge/datagrip-143?style=for-the-badge&logo=datagrip&logoColor=white&color=black)
-![IntelliJ](https://img.shields.io/badge/intellij-143?style=for-the-badge&logo=intellij&logoColor=white&color=black)
+![IntelliJ](https://img.shields.io/badge/intellij-143?style=for-the-badge&logo=intellijidea&logoColor=white&color=black)
 
 #### Development Tools
 
